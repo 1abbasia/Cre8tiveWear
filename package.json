@@ -1,0 +1,30 @@
+{
+  "name": "project4",
+  "version": "1.0.0",
+  "description": "project 4",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1abbasia/Cre8tiveWear.git"
+  },
+  "author": "Ahsan Abbasi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "method-override": "^2.3.8",
+    "morgan": "^1.8.1",
+    "path": "^0.12.7",
+    "pg-promise": "^5.6.7"
+  },
+  
+  "bugs": {
+    "url": "https://github.com/1abbasia/Cre8tiveWear/issues"
+  },
+  "homepage": "https://github.com/1abbasia/Cre8tiveWear#readme"
+}

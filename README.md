@@ -12,11 +12,11 @@ small scale e-commere app for shirts
 The T-shirt printing businesss is a robust and profitable business.  The margins on the productsa are high and the key to to a successful business is to hve one that is always growing in clientele.  This app is being created for a screen printing business that is trying to expand.  The company has  virtually no advertising and would like a presence online with a easy to use app that allows prospective customers to seamlessly order shirts.
 The app has a database of what the compau
 
-Book Bunch is a virtual bookshelf CRUD app where users can: 
-- View books on a user profile archived in the database
-- Add books to the databse(by searching the google books api)
-- Edit books in the database, update the status of the book (read, reading, to-read), and add a review of the book
-- And delete books from the database
+Cre8tiveWear is an app that allows you to browse and purchase shirts and hoodies.  It also has a unique feature where you can customize your own clothing items.
+- View an inventory of shirts and hoodies that are currnetly trending.
+- Purchase items in a seamless transition from viewing them to checkout page.
+- Check out page which generates an invoice and sends to your email.
+- Customize page where you can mix and match shirts and prints.
 
 ## Technologies To Be Used
 - Express backend
